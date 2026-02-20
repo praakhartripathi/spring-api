@@ -64,3 +64,6 @@ This repository contains Spring Boot backend projects.
 
 ### workout-tracker
 [workout-tracker](./workout-tracker)
+
+### Notification-service
+[Notification-service](https://github.com/praakhartripathi/Notification-service)
