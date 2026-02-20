@@ -1,101 +1,66 @@
----
 
-# Spring API Projects
+## Spring API Projects
 
 This repository contains Spring Boot backend projects.
 
----
 
-## Blog Platform API
+### Blog Platform API
 
-* [blogging-platform-api](./blogging-platform-api)
+[blogging-platform-api](./blogging-platform-api)
 
----
 
 ## Contact Management API
 
-* [contact-management-api](./contact-management-api)
+ [contact-management-api](./contact-management-api)
 
----
+### Expense Tracker API
 
-## Expense Tracker API
+[expense-tracker](./expense-tracker)
 
-* [expense-tracker](./expense-tracker)
+### GitHub Builder API
 
----
+[github-builder-api](./github-builder-api)
 
-## GitHub Builder API
+### OTP Login API
+[otp-login](./otp-login)
 
-* [github-builder-api](./github-builder-api)
+### Task Tracker API
+[task-tracker-api](./task-tracker-api)
 
----
 
-## OTP Login API
+### TMDB CLI Tool
+[TMDB-CLI-Tool](./TMDB-CLI-Tool)
 
-* [otp-login](./otp-login)
+### URL Shortener API
+[url-shortner](./url-shortner)
 
----
 
-## Task Tracker API
+### User Authentication Service
+[user-authentication-service](./user-authentication-service)
 
-* [task-tracker-api](./task-tracker-api)
 
----
+### Weather Info API Wrapper
+[Whether-Info-api](./feedback-and-review-sytstem)
 
-## TMDB CLI Tool
 
-* [TMDB-CLI-Tool](./TMDB-CLI-Tool)
+###feedback and review system
+[feedback and review sytstem](./feedback-and-review-sytstem)
 
----
 
-## URL Shortener API
+### caching-proxy
+[caching-proxy](./caching-proxy)
 
-* [url-shortner](./url-shortner)
 
----
+### Markdown-note-taking-app
+[Markdown-note-taking-app](./Markdown-note-taking-app)
+  
+### image-processing-service
+[image-processing-service](./image-processing-service)
 
-## User Authentication Service
 
-* [user-authentication-service](./user-authentication-service)
+### websocket-broadcast-server
+[websocket-broadcast-server](./websocket-broadcast-server)
 
----
 
-## Weather Info API Wrapper
-
-* [Whether-Info-api](./feedback-and-review-sytstem)
-
----
-
-## feedback and review system
-
-* [feedback and review sytstem](./feedback-and-review-sytstem)
-
----
-
-## caching-proxy
-
-* [caching-proxy](./caching-proxy)
-
----
-
-## Markdown-note-taking-app
-
-* [Markdown-note-taking-app](./Markdown-note-taking-app)
-
----
-
-## image-processing-service
-
-* [image-processing-service](./image-processing-service)
-
----
-
-## websocket-broadcast-server
-
-* [websocket-broadcast-server](./websocket-broadcast-server)
-
----
-
-## workout-tracker
-
-* [workout-tracker](./workout-tracker)
+### workout-tracker
+[workout-tracker](./workout-tracker)
